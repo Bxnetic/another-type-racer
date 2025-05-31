@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Page-1" id="45bmdS6r5GTHjrhukE3N">
-    <mxGraphModel dx="1426" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         </mxCell>
         <mxCell id="9331QtTUVBZmF3FO_kLh-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9331QtTUVBZmF3FO_kLh-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="503" as="sourcePoint" />
-            <mxPoint x="700" y="423" as="targetPoint" />
+            <mxPoint x="770" y="433" as="sourcePoint" />
+            <mxPoint x="770" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9331QtTUVBZmF3FO_kLh-93" value="Keyboard Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
@@ -213,14 +213,11 @@
         <mxCell id="9331QtTUVBZmF3FO_kLh-94" value="Mouse Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="790" y="193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9331QtTUVBZmF3FO_kLh-95" value="Feedback Effects" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+        <mxCell id="9331QtTUVBZmF3FO_kLh-95" value="Pause/Resume Game" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="790" y="333" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9331QtTUVBZmF3FO_kLh-96" value="Pause/Resume Game" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+        <mxCell id="9331QtTUVBZmF3FO_kLh-96" value="Return to Menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="790" y="403" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9331QtTUVBZmF3FO_kLh-97" value="Return to Menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
-          <mxGeometry x="790" y="473" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9331QtTUVBZmF3FO_kLh-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9331QtTUVBZmF3FO_kLh-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -244,12 +241,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="433" as="sourcePoint" />
             <mxPoint x="810" y="383" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9331QtTUVBZmF3FO_kLh-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9331QtTUVBZmF3FO_kLh-97">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="503" as="sourcePoint" />
-            <mxPoint x="810" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
